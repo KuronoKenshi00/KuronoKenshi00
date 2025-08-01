@@ -34,7 +34,5 @@ A passionate **Python Developer** diving deep into **Artificial Intelligence** a
 
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/your-link)
-
 ---
 > 💡 *In a world full of data, I choose to make it meaningful.*  
