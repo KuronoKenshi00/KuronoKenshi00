@@ -30,19 +30,4 @@ A passionate **Python Developer** diving deep into **Artificial Intelligence** a
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/your-link)
 
 ---
-
-### 📊 GitHub Stats  
-[![Prashanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/your-github-username)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)](https://github.com/your-github-username)
-
----
-
-### 🧠 Projects in Progress  
-📌 **Brain Tumor Detection using CNN**  
-📌 **Knee MRI Diagnosis AI**  
-📌 **AI Gen Z Chatbot with Slang Awareness**  
-📌 **Resume Parser with ML and PDF Generation**
-
----
-
 > 💡 *In a world full of data, I choose to make it meaningful.*  
