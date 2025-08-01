@@ -33,6 +33,6 @@ A passionate **Python Developer** diving deep into **Artificial Intelligence** a
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/prashanth-p-0b8462355/)  
 ---
 > 💡 *In a world full of data, I choose to make it meaningful.*  
